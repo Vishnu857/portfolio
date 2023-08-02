@@ -15,7 +15,7 @@ const Content = () => {
           <p>WEB DEVELOPER</p>
           <div className="btngrp">
             <a
-              href="https://drive.google.com/uc?export=download&id=1w58xxY-9Mkyxncvbd_9L9e_8A9EMf4ei"
+              href= "https://drive.google.com/uc?export=download&id=1g7sIeIy6_YqgQBYdCPK8_xPGCllqnFas"
               Download
             >
               <button type="button" className="button1">
