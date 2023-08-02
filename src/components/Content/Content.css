@@ -1,0 +1,62 @@
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.grp{
+    
+  }
+  img{
+
+    width: 300PX;
+    height: 300PX;
+    border: 2px;
+    
+    border-style: solid;
+  }
+  .text{
+    
+    margin-top: 90px;
+    margin-left: 100px; 
+  }
+  .btngrp{
+    display: flex;
+    /* flex-wrap: nowrap; */
+  }
+  .button1{
+    margin-top: 20px;
+    /* margin-left: 20px; */
+    width: 150px;
+    height: 40px;
+    padding: 6px;
+    background-color: chartreuse;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    
+    
+  }
+  .button1:hover{
+    cursor: pointer;
+    transform: scale(1.09);
+  
+  }
+  .button2{
+  
+    margin-top: 20px;
+  
+  
+    margin-left: 20px;
+    width: 150px;
+    height: 40px;
+    border: solid chartreuse 1px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+  }
+  .button2:hover{
+    cursor: pointer;
+    transform: scale(1.09);
+  
+  }
