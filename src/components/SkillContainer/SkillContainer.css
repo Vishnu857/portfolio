@@ -28,10 +28,11 @@ h2{
     margin-right: 10px;
 }
 .image>img{
-    width: 500px;
-    height: auto;
-    border-radius: 2px;
-    object-fit: contain;
+    margin-top: 150px;
+    width: 400px;
+    height: 300px;
+    /* border-radius: 2px; */
+    /* object-fit: contain; */
     
 }
 h5{
