@@ -4,13 +4,11 @@
   align-items: center;
   height: 100vh;
 }
-.grp{
-    
-  }
+
   img{
 
-    width: 300PX;
-    height: 300PX;
+    width: 250PX;
+    height: 290PX;
     border: 2px;
     
     border-style: solid;
