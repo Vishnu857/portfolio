@@ -10,7 +10,7 @@ import "./Project.css"
         {show?(<div className='project_content'>
           <h4>{title}</h4>
           <p>{desc}</p>
-        </div>):(<img src={img} alt=''/>)}
+        </div>):(<div><p>{title}</p><img src={img} alt=''/></div>)}
       </div>
       
      </a>

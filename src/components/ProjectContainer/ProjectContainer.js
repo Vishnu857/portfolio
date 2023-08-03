@@ -17,14 +17,14 @@ const ProjectContainer = () => {
     {
       img: "https://drive.google.com/uc?export=view&id=1tJzjfbTuP6i6eWIKnF71pMWITT_qrl7m",
       title: "BLOG SITE",
-      desc: "IN PROGRESS",
+      desc: "",
     },
   ];
   return (
     <Element id="projects">
       <div className="projectContainer">
         <h4>PROJECTS</h4>
-        <p>HERE ARE SOME OF THE PROJECTS I HAD DONE</p>
+       
       </div>
       <div className="project_container">
         {projects.map((project, index) => {
