@@ -65,13 +65,26 @@
     justify-content: space-around;
     height: 24px;
     width: 30px;
+   
     cursor: pointer;
 }
 .hamburger_icon>span{
+    
     height: 2px;
     width: 100%;
     background-color: white;
-    transition: all 0.3 ease-in-outs;
+    transition: all 0.3 ease-in-outs; align-items: end;
+    justify-content: end;
+}
+.menu_links{
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: white;
+    width: fit-content;
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.3 ease-in-out;
 }
 @media screen and (max-width:1200px) {
     .header_right{
