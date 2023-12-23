@@ -6,12 +6,12 @@ const Content = () => {
   return (
     <Element className="content" id="about">
       <img
-        src="https://drive.google.com/uc?export=view&id=1Tr4DGgSPmPWxx4Fb6i-4fgx_IWzAjyQn"
+        src="https://drive.google.com/uc?export=download&id=1eNKIxFAF9iaH4hb3EVRh-VN7VhLrvL_I"
         alt=""
       />
       <div className="grp">
         <div className="text">
-          <h1>Mr.BALAVISHNU</h1>
+          <h1>Mr.TONY MADHAN</h1>
           <p>WEB DEVELOPER</p>
           <div className="btngrp">
             <a href="https://drive.google.com/uc?export=download&id=15C69kdX3YO8dnqPiwEj7MzvmwNd15DzW">
