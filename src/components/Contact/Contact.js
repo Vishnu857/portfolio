@@ -9,10 +9,10 @@ const Contact = () => {
       <h4>Contacts</h4>
       <div className="contact_container">
         <p>
-          EMAIL:<span>vishnuchandran2532@gmail.com</span>
+          EMAIL:<span>tonymadhanmk20@gmail.com</span>
         </p>
         <p>
-          GITHUB:<span>@vishnu857</span>
+          GITHUB:<span>@Tony20</span>
         </p>
         <div className="contact_icons">
           <a
