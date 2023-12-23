@@ -14,7 +14,7 @@ const Content = () => {
           <h1>Mr.TONY MADHAN</h1>
           <p>WEB DEVELOPER</p>
           <div className="btngrp">
-            <a href="https://drive.google.com/uc?export=download&id=15C69kdX3YO8dnqPiwEj7MzvmwNd15DzW">
+            <a href="https://drive.google.com/uc?export=download&id=16RULNkX2kKIHPR9fH_wNR29S8bS1bzEK">
               <button type="button" className="button1">
                 {" "}
                 DOWNLOAD RESUME{" "}
