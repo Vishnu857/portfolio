@@ -6,15 +6,15 @@ const Content = () => {
   return (
     <Element className="content" id="about">
       <img
-        src="https://drive.google.com/uc?export=download&id=1eNKIxFAF9iaH4hb3EVRh-VN7VhLrvL_I"
+        src="https://drive.google.com/uc?export=download&id=1UHCYJ078PzLzFLsKr_BbV5RfodCrdpp8"
         alt=""
       />
       <div className="grp">
         <div className="text">
-          <h1>Mr.TONY MADHAN</h1>
+          <h1>Mr.Balavishnu</h1>
           <p>WEB DEVELOPER</p>
           <div className="btngrp">
-            <a href="https://drive.google.com/uc?export=download&id=16RULNkX2kKIHPR9fH_wNR29S8bS1bzEK">
+            <a href="https://drive.google.com/uc?export=download&id=15C69kdX3YO8dnqPiwEj7MzvmwNd15DzW">
               <button type="button" className="button1">
                 {" "}
                 DOWNLOAD RESUME{" "}
